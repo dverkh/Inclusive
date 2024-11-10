@@ -11,7 +11,7 @@ a:hover {color:#ffffff; text-decoration:underline;}
 #g a:visited{color:#179479; text-decoration:none;}
 #g a:hover{color:#179479; text-decoration:underline;}
 
-.grid-container-index {
+.grid-container-main {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     padding: 1px;
@@ -19,7 +19,7 @@ a:hover {color:#ffffff; text-decoration:underline;}
     margin: -8;
   }
 
-.grid-container-index > div {
+.grid-container-main > div {
     text-align: center;
 }
 
